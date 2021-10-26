@@ -2,6 +2,8 @@
 
 Please calculate 10 and 11. In examle there is number 12.
 
+Hint: ctg(x) = cos(x) / sin(x)
+
 ![Alt text](task.png?raw=true "Task")
 
 Examle of task 12:
